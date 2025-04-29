@@ -12,9 +12,6 @@ Reveals how listening habits differ between workdays and weekends.
 🏆 Top Performers:
 Identifies the top 5 albums, artists, and tracks based on play frequency for focused recommendations.
 
-⏰ Peak Listening Hours:
-Uses heat maps to spotlight the most active hours and days.
-
 🔬 Engagement Analysis:
 Scatter plots highlight which tracks are most engaging, niche, or less popular.
 
@@ -23,7 +20,7 @@ Dynamic grid views with drill-through and hierarchy features for in-depth, user-
 
 ⬇ Easy Data Export:
 Supports exporting detailed insights to CSV for further analysis.
-
+ 
 
 ![TrackByTrackView](https://github.com/user-attachments/assets/8e9c4528-1b80-48a0-b43b-f6f4e01dfdd6)
 ![Overview_Dashboard](https://github.com/user-attachments/assets/9b9dde12-f216-4d84-857a-ba2c9c6a61bb)
